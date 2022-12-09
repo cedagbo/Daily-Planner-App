@@ -45,17 +45,30 @@ The app should:
     <li>Vittoria Bugana - https://github.com/vbugana </li>
 </ul>
 
+## Deployment
+<ul>
+    <li>Website: </li>
+    <li>Repository: </li>
+</ul>
+
 ## Technologies
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<br />
 
 ## Installation
 The user does not need to install any software to go through the given web application.
 
+## Usage
 
-          
+
+## Documentation
+
+
+## License
+Daily Planner App is under MIT License.
 
           
           
