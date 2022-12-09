@@ -34,3 +34,6 @@ The app should:
     <li>Save the event in local storage when the save button is clicked in that timeblock.</li>
     <li>Persist events between refreshes of a page.</li>
 </ul>
+
+## Mock-up
+
