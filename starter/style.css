@@ -30,8 +30,8 @@ textarea:hover{
 }
 
 .jumbotron {
-  text-align: center;
-  background-color: transparent;
+  text-align: left;
+  background-color: var(--blue);
   color: var(--black);
   border-radius: 0;
   border-bottom: 10px solid var(--black);
