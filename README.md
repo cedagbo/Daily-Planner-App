@@ -37,3 +37,11 @@ The app should:
 
 ## Mock-up
 
+## Contributors
+<ul>
+    <li>Adam Sall - </li>
+    <li>Chris-Eric Dagbo - https://github.com/cedagbo </li>
+    <li>Lili Bengum - </li>
+    <li>Vittoria Bugana - https://github.com/vbugana </li>
+</ul>
+
