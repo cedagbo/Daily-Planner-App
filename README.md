@@ -52,9 +52,9 @@ The app should:
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 
 ## Installation
+The user does not need to install any software to go through the given web application.
 
 
-          
           
 
           
