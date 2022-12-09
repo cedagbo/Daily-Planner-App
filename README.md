@@ -39,7 +39,7 @@ The app should:
 
 ## Contributors
 <ul>
-    <li>Adam Sall - </li>
+    <li>Adam Sall - https://github.com/Kaiyfa </li>
     <li>Chris-Eric Dagbo - https://github.com/cedagbo </li>
     <li>Lili Bengum - </li>
     <li>Vittoria Bugana - https://github.com/vbugana </li>
