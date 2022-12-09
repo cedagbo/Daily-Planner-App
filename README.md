@@ -48,7 +48,7 @@ The app should:
 ## Deployment
 <ul>
     <li>Website: </li>
-    <li>Repository: </li>
+    <li>Repository: https://github.com/cedagbo/Daily-Planner-App </li>
 </ul>
 
 ## Technologies
