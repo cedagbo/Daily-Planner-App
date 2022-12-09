@@ -69,7 +69,7 @@ textarea:hover{
 }
 
 .present {
-  background-color: ;
+  background-color: var(--orange);
   color: var(--white);
 }
 
