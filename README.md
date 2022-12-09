@@ -59,7 +59,7 @@ The app should:
 <br />
 
 ## Installation
-The user does not need to install any software to go through the given web application.
+The user does not need to install any software to use the given web application.
 
 ## Usage
 
