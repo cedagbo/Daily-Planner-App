@@ -30,6 +30,11 @@ textarea {
   border-radius: 15px;
 }
 
+.col-md-10{
+  border: solid 1px;
+  background-color: grey;
+}
+
 .row {
   white-space: pre-wrap;
   height: 80px;
