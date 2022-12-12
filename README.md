@@ -35,14 +35,14 @@ The app should:
     <li>Persist events between refreshes of a page.</li>
 </ul>
 
-## Mock-up
+## Demo
 
 ## Contributors
 <ul>
-    <li>Adam Sall - https://github.com/Kaiyfa </li>
-    <li>Chris-Eric Dagbo - https://github.com/cedagbo </li>
+    <li>Adam Sall - https://www.github.com/Kaiyfa </li>
+    <li>Chris-Eric Dagbo - https://www.github.com/cedagbo </li>
     <li>Lili Bengum - </li>
-    <li>Vittoria Bugana - https://github.com/vbugana </li>
+    <li>Vittoria Bugana - https://www.github.com/vbugana </li>
 </ul>
 
 ## Deployment
@@ -56,17 +56,29 @@ The app should:
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+          
 <br />
 
 ## Installation
-The user does not need to install any software to use the given web application.
+The use of this app does not require any software installation.
 
 ## Usage
-
+Please refer to the deployment section to get the url of the website that would allow you to access the given web application.
+Once this step is done, different information can be stored related to a specified timeframe. 
+More specifically, the user can enter some details into the text area, and click on the floppy disk button to save it. 
+Furthermore, we set a clear button right at the end of the Planner to enable the user to clear all the details entered.
+Kindly, contact us in case you are experiencing a technical issue. 
 
 ## Documentation
+<ul>
+    <li>https://getbootstrap.com/docs/4.0/getting-started/introduction/</li>
+    <li>https://www.w3schools.com/</li>
+    <li>https://www.traversymedia.com/</li>
+    <li>https://www.freecodecamp.org/news/</li>
+<ul>
 
-
+    
 ## License
 Daily Planner App is under MIT License.
 
