@@ -64,11 +64,13 @@ The app should:
 The use of this app does not require any software installation.
 
 ## Usage
-Please refer to the deployment section to get the url of the website that would allow you to access the given web application.
-Once this step is done, different information can be stored related to a specified timeframe. 
-More specifically, the user can enter some details into the text area, and click on the floppy disk button to save it. 
-Furthermore, we set a clear button right at the end of the Planner to enable the user to clear all the details entered.
-Kindly, contact us in case you are experiencing a technical issue. 
+<pre>
+    Please refer to the deployment section to get the url of the website that would allow you to access the given web application.
+    Once this step is done, different information can be stored related to a specified timeframe. 
+    More specifically, the user can enter some details into the text area, and click on the floppy disk button to save it. 
+    Furthermore, we set a clear button right at the end of the Planner to enable the user to clear all the details entered.
+    Kindly, contact us in case you are experiencing a technical issue. 
+</pre>
 
 ## Documentation
 <ul>
@@ -77,10 +79,5 @@ Kindly, contact us in case you are experiencing a technical issue.
     <li>https://www.traversymedia.com/</li>
     <li>https://www.freecodecamp.org/news/</li>
 <ul>
-
     
-## License
-Daily Planner App is under MIT License.
-
-          
           
