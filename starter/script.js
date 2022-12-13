@@ -7,8 +7,7 @@ $("#currentDay").text(today);
 // moment.js
 var now = new Date().getHours();
 
-var timeblocks = Array.from(document.getElementsByTagName('textarea'));
-console.log(timeblocks);
+var timeblocks = $('textarea');
 
 function getData(){
     for (var j = 0; j < localStorage.length; j++) {
@@ -23,10 +22,10 @@ function getData(){
 
 getData();
 
-$(".saveBtn").on("click", function (event) {
+$(".Btn").on("click", function (event) {
     event.preventDefault();
     var notes = $(this).siblings("textarea").val();
-    var rowHourActive = $(this).siblings("textarea").data("number");
+    var rowHourActive = $(this).siblings("textarea").data("description");
     window.localStorage.setItem(rowHourActive, notes);
     
 });
@@ -47,7 +46,7 @@ function statusTimeblock(){
 }
 statusTimeblock();
 
-// Adding an event to the clear button - The clear button should enable the user to clear all the tasks entred
+// Add an event to the clear button - the user should be able to clear his input
 $(document).ready(function(){
     $('#clear-task').click(function(){
       $('textarea').val('');

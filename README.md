@@ -53,7 +53,7 @@ The app should:
 
 ## Deployment
 <ul>
-    <li>Website: </li>
+    <li>Website: https://cedagbo.github.io/Planner/ </li>
     <li>Repository: https://github.com/cedagbo/Daily-Planner-App </li>
 </ul>
 
