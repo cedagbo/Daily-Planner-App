@@ -34,8 +34,14 @@ The app should:
     <li>Save the event in local storage when the save button is clicked in that timeblock.</li>
     <li>Persist events between refreshes of a page.</li>
 </ul>
+<br />
 
 ## Demo
+
+<video width="600" height="400" controls>
+    <source src="./images/demo.mp4">
+</video>
+<br />
 
 ## Contributors
 <ul>
@@ -82,7 +88,7 @@ The use of this app does not require any software installation.
     <li> https://developer.mozilla.org/en-US/ </li>
     <li> https://jquery.com/ </li>
 <ul>
-
+<br />
 
 ## License
 Daily Planner App is under MIT License.   
