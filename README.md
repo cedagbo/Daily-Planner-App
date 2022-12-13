@@ -75,6 +75,7 @@ The use of this app does not require any software installation.
 ## Documentation
 <ul>
     <li> https://getbootstrap.com/docs/4.0/getting-started/introduction/ </li>
+    <li> https://momentjs.com/ </li>
     <li> https://www.w3schools.com/ </li>
     <li> https://www.traversymedia.com/ </li>
     <li> https://www.freecodecamp.org/news/ </li>
