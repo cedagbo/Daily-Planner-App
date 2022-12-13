@@ -7,7 +7,8 @@ Creation of a simple calendar application that allows a user to save events for 
 <ul>
     <li>User Story</li>
     <li>Acceptance Criteria</li>
-    <li>Mock-up</li>
+    <li>Screenshot</li>
+    <li>Demo</li>
     <li>Contributors</li>
     <li>Deployment</li>
     <li>Technologies</li>
@@ -36,11 +37,13 @@ The app should:
 </ul>
 <br />
 
-## Demo
+## Screenshot
+<img src="./images/Screenshot.png">
 
-<video width="600" height="400" controls>
-    <source src="./images/demo.mp4">
-</video>
+<br />
+
+## Demo
+<img src="./images/planner.gif" width="4000" height="650">
 <br />
 
 ## Contributors
@@ -71,11 +74,10 @@ The use of this app does not require any software installation.
 
 ## Usage
 <pre>
-    Please refer to the deployment section to get the url of the website that would allow you to access the given web application.
-    Once this step is done, different information can be stored related to a specified timeframe. 
-    More specifically, the user can enter some details into the text area, and click on the floppy disk button to save it. 
-    Furthermore, we set a clear button right at the end of the Planner to enable the user to clear all the details.
-    Kindly, contact us in case you are experiencing a technical issue. 
+    1. Navigate to <a href="https://cedagbo.github.io/Planner/">the Deployed application</a> .
+    2. Click on the field, and type the event you want to schedule.
+    3. Use the floppy disk button next to the field to save the given event.
+    4. Click on the clear button to remove all the events. 
 </pre>
 
 ## Documentation
