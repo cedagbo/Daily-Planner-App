@@ -39,10 +39,10 @@ The app should:
 
 ## Contributors
 <ul>
-    <li>Adam Sall - https://www.github.com/Kaiyfa </li>
-    <li>Chris-Eric Dagbo - https://www.github.com/cedagbo </li>
+    <li>Adam Sall - <a href="https://www.github.com/Kaiyfa">Kaiyfa</a> </li>
+    <li>Chris-Eric Dagbo - <a href="https://www.github.com/cedagbo">cedagbo</a>  </li>
     <li>Lili Bengum - </li>
-    <li>Vittoria Bugana - https://www.github.com/vbugana </li>
+    <li>Vittoria Bugana - <a href="https://www.github.com/vbugana">vbugana</a> </li>
 </ul>
 
 ## Deployment
@@ -57,7 +57,7 @@ The app should:
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-          
+                   
 <br />
 
 ## Installation
@@ -81,6 +81,8 @@ The use of this app does not require any software installation.
     <li> https://developer.mozilla.org/en-US/ </li>
 <ul>
 
+#
+    
 ## License
 Daily Planner App is under MIT License.   
           
