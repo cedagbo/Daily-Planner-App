@@ -79,10 +79,10 @@ The use of this app does not require any software installation.
     <li> https://www.traversymedia.com/ </li>
     <li> https://www.freecodecamp.org/news/ </li>
     <li> https://developer.mozilla.org/en-US/ </li>
+    <li> https://jquery.com/ </li>
 <ul>
 
-#
-    
+
 ## License
 Daily Planner App is under MIT License.   
           
